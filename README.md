@@ -1,6 +1,6 @@
 # UINT32
  
-I am C# Developer.
+C#
 
 ## Social Media
 
